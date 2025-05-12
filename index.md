@@ -64,9 +64,9 @@ Annotation Comparison Explorer (ACE) provides interactive visualizations compari
 ---
 
 ### Coordination Team:
-Trygve Bakken, Nelson Johansen, Yuanyuan Fu, Tyler Mollenkopf, Jeremy Miller, Lauren Alfiler, Yasmeen Hussain and Julei Nyhus (Allen Institute for Brain Science)
+Trygve Bakken, Nelson Johansen, Yuanyuan Fu, Tyler Mollenkopf, Jeremy Miller, Lauren Alfiler, Yasmeen Hussain and Julie Nyhus (Allen Institute for Brain Science)
 
-Supported by the NIH Cell Atlas Network grant UM1MH130981 and by the NINDS grant U24NS133077. 
+Supported by NIH Cell Atlas Network grant UM1MH130981, the National Institute of Neurological Disorders and Stroke of the National Institutes of Health (NIH) under award number U24NS133077, and the NIH BRAIN Initiative under award number U24MH130918.
 
 ![NIH_Brain](./assets/images/NIH_BRAIN.png) ![Brain](./assets/images/BRAIN.png)
 
