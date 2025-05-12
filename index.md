@@ -21,7 +21,7 @@ This repository is a central resource for annotators collaborating on a cross-sp
 
 ### Additional Resources:
 - **[CAP Orientation Videos](https://www.youtube.com/playlist?list=PLKRocgU6P8sIXJKtoyhBtOm38sMH1Z7gq)** led by Evan Biederstedt.
-- **[Cell type metadata](https://docs.google.com/spreadsheets/d/1Pj1tI77L_GdCqj-liaCUFvvwlEDBkyj-QMRhVe9jFf0/edit?usp=sharing)** including marker genes and anatomical distributions.
+- **[Cell type metadata](https://docs.google.com/spreadsheets/d/1Z7AkvCSD8WT9XW5O9Vep68WwLFzjLJwRMBF1Up7zWKg/edit?usp=sharing)** including marker genes and anatomical distributions.
 
 ## Cell Annotation Platform (CAP)
 
