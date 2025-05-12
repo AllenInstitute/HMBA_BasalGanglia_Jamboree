@@ -59,7 +59,7 @@ Performance is slow, please have patience.
 Annotation Comparison Explorer (ACE) provides interactive visualizations comparing basal ganglia cell type assignments with alignments to the adult human brain atlas [(Siletti et al 2023)](https://www.science.org/doi/10.1126/science.add7046), the adult mouse brain atlas [(Yao et al 2023)](https://www.nature.com/articles/s41586-023-06812-z), and other metadata such as anatomic structure, species, and donor sex.  
 
 * [Visit this site](https://alleninstitute.github.io/HMBA_BasalGanglia_ACE/) for details, including ACE orientation videos for this data set
-* Access ACE directly here: https://sea-ad.shinyapps.io/ACEapp/
+* Access ACE directly here: [https://sea-ad.shinyapps.io/ACEapp/](https://sea-ad.shinyapps.io/ACEapp/)
 
 ---
 
