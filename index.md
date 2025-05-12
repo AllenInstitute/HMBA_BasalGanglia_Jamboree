@@ -45,14 +45,23 @@ Computational identificaiton of conserved marker genes across species will be pr
 
 ---
 
-## Spatail transcriptomci cirrocumulus
+## Spatial transcriptomic cirrocumulus
 
 We have provided a cirrocumulus browser for access to the Macaque spatial transcriptomics data available at: https://cirro-aibs.org/.
 
 * Login with user: hmbajamboree@gmail.com; password: welcomeannotators
-* Click Open (near top right) and chose the Macauqe BG Neurons for Jamboree
+* Click Open (near top right) and chose the Macaque BG Neurons for Jamboree
 
 Performance is slow, please have patience.
+
+## Compare cell type annotations and metadata
+
+Annotation Comparison Explorer (ACE) provides interactive visualizations comparing basal ganglia cell type assignments with alignments to the adult human brain atlas [(Siletti et al 2023)](https://www.science.org/doi/10.1126/science.add7046), the adult mouse brain atlas [(Yao et al 2023)](https://www.nature.com/articles/s41586-023-06812-z), and other metadata such as anatomic structure, species, and donor sex.  
+
+* [Visit this site](https://alleninstitute.github.io/HMBA_BasalGanglia_ACE/) for details, including ACE orientation videos for this data set
+* Access ACE directly here: https://sea-ad.shinyapps.io/ACEapp/
+
+---
 
 ### Coordination Team:
 Trygve Bakken, Nelson Johansen, Yuanyuan Fu, Tyler Mollenkopf, Jeremy Miller, Lauren Alfiler, Yasmeen Hussain and Julei Nyhus (Allen Institute for Brain Science)
