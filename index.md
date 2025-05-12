@@ -55,7 +55,7 @@ We have provided a cirrocumulus browser for access to the Macaque spatial transc
 Performance is slow, please have patience.
 
 ### Coordination Team:
-Trygve Bakken, Nelson Johansen, Yuanyuan Fu, Jeremy Miller (Allen Institute for Brain Science)
+Trygve Bakken, Nelson Johansen, Yuanyuan Fu, Tyler Mollenkopf, Jeremy Miller, Lauren Alfiler, Yasmeen Hussain and Julei Nyhus (Allen Institute for Brain Science)
 
 Supported by the NIH Cell Atlas Network grant UM1MH130981 and by the NINDS grant U24NS133077. 
 
