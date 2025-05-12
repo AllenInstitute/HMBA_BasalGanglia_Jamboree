@@ -47,7 +47,7 @@ Computational identificaiton of conserved marker genes across species will be pr
 
 ## Spatial transcriptomic cirrocumulus
 
-We have provided a cirrocumulus browser for access to the Macaque spatial transcriptomics data available at: https://cirro-aibs.org/.
+We have provided a cirrocumulus browser for access to the Macaque spatial transcriptomics data available here [https://cirro-aibs.org/](https://cirro-aibs.org/).
 
 * Login with user: hmbajamboree@gmail.com; password: welcomeannotators
 * Click Open (near top right) and chose the Macaque BG Neurons for Jamboree
