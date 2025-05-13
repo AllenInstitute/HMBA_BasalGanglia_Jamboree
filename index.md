@@ -50,9 +50,12 @@ Computational identificaiton of conserved marker genes across species will be pr
 We have provided a cirrocumulus browser for access to the Macaque spatial transcriptomics data available here [https://cirro-aibs.org/](https://cirro-aibs.org/).
 
 * Login with user: hmbajamboree@gmail.com; password: welcomeannotators
-* Click Open (near top right) and chose the Macaque BG Neurons for Jamboree
+* Click Open (near top right) and chose any of:
+  * Macaque BG Neurons for Jamboree – final taxonomy (~1M cells)
+  * Macaque BG Non-neurons for Jamboree – final taxonomy (~6.2M cells)
+  * Marmoset BG Jamboree (and then open the `spatial_cirro_grid` embedding in the top left -- 2.2M cells)
 
-Performance is slow, please have patience.
+Performance may be slow, please have patience.
 
 ## Compare cell type annotations and metadata
 
